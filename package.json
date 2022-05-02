@@ -1,0 +1,21 @@
+{
+    "name": "thecoderguru-dark",
+    "displayName": "TheCoderGuru Dark",
+    "description": "The theme to enable productivity in the night",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TheCoderGuru Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TheCoderGuru Dark-color-theme.json"
+            }
+        ]
+    }
+}
