@@ -12,7 +12,6 @@
 		"statusBar.noFolderBackground": "#3D405B",
 		"titleBar.activeBackground": "#3D405B",
 		"titleBar.inactiveBackground": "#3D405B",
-		"editorGroupHeader.tabsBackground": "#282b40",
 		"gitDecoration.modifiedResourceForeground": "#adbaee",
 		"badge.background": "#3D405B",
 		"editorLineNumber.foreground": "#9b9db1",
