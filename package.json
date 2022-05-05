@@ -1,21 +1,38 @@
 {
-    "name": "thecoderguru-dark",
-    "displayName": "TheCoderGuru Dark",
-    "description": "The theme to enable productivity in the night",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.66.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "TheCoderGuru Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/TheCoderGuru Dark-color-theme.json"
-            }
-        ]
-    }
+  "name": "thecoderguru-dark",
+  "displayName": "TheCoderGuru Dark",
+  "description": "The theme to enable productivity in the night",
+  "version": "0.0.1",
+  "publisher": "ShashreeSamuel",
+  "icon": "profile_picture.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheCoderGuru/thecoderguru-dark"
+  },
+  "keywords": [
+      "theme",
+      "dark theme",
+      "thecoderguru",
+      "thecoder guru",
+      "coderguru",
+      "TheCoderGuru",
+      "thecoderguru-dark",
+      "thecoderguru_dark"
+  ],
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "TheCoderGuru Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TheCoderGuru Dark-color-theme.json"
+      }
+    ]
+  }
 }
