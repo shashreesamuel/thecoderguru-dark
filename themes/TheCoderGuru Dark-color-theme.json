@@ -24,6 +24,8 @@
 		"minimapSlider.activeBackground": "#8f92ab8b",
 		"editorGroupHeader.tabsBackground": "#2a2c3f",
 		"tab.inactiveBackground": "#2a2c3f",
+		"notificationCenterHeader.background": "#2a2c3f",
+		"diffEditorGutter.insertedLineBackground": "#535882"
 	},
 	"tokenColors": [
 		{
@@ -34,7 +36,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#e6e5b7"
+				"foreground": "#9491bd"
 			}
 		},
 		{
@@ -44,7 +46,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#ccbefe"
 			}
 		},
 		{
@@ -74,7 +76,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#d0aee6"
 			}
 		},
 		{
@@ -94,7 +96,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#b0c3c3"
+				"foreground": "#ddd2d2"
 			}
 		},
 		{
@@ -105,7 +107,7 @@
 				"source.css"
 			],
 			"settings": {
-				"foreground": "#ededed"
+				"foreground": "#83f3ce"
 			}
 		},
 		{
@@ -116,7 +118,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#8dd4ea"
+				"foreground": "#92b4ed"
 			}
 		},
 		{
@@ -129,7 +131,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#f8ba00"
+				"foreground": "#e7d190"
 			}
 		},
 		{
@@ -138,7 +140,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#a1d1ea"
 			}
 		},
 		{
@@ -164,7 +166,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#f3b893"
+				"foreground": "#eaa18f"
 			}
 		},
 		{
@@ -179,7 +181,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#dcf3b9"
 			}
 		},
 		{
@@ -218,7 +220,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#ed6262"
+				"foreground": "#c4ccdb"
 			}
 		},
 		{
@@ -288,7 +290,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#f2c195"
+				"foreground": "#f39b7e"
 			}
 		},
 		{
@@ -624,6 +626,17 @@
 			],
 			"settings": {
 				"foreground": "#EEFFFF"
+			}
+		},
+		{
+			"name": "Variables",
+			"scope": [
+				"variable.scss",
+				"meta.definition.variable.scss",
+				"source.css.scss"
+			],
+			"settings": {
+				"foreground": "#e6d59c"
 			}
 		},
 		{
