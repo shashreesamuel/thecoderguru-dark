@@ -20,17 +20,29 @@ Cheers and happy coding
 
 ## Screenshots
 
+<br>
+
 HTML
 
-[](./html_screenshot.png)
+<br>
+
+![](html_screenshot.png)
+
+<br>
 
 CSS
 
-[](./css_screenshot.png)
+<br>
+
+![](css_screenshot.png)
+
+<br>
 
 JS
 
-[](./js_screenshot.png)
+<br>
+
+![](js_screenshot.png)
 
 
 ## Color Reference
