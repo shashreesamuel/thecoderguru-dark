@@ -26,7 +26,7 @@ HTML
 
 <br>
 
-![](html_screenshot.png)
+![](./html_screenshot.png)
 
 <br>
 
@@ -34,7 +34,7 @@ CSS
 
 <br>
 
-![](css_screenshot.png)
+![](./css_screenshot.png)
 
 <br>
 
@@ -42,7 +42,7 @@ JS
 
 <br>
 
-![](js_screenshot.png)
+![](./js_screenshot.png)
 
 
 ## Color Reference
