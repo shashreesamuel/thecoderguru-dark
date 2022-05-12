@@ -23,10 +23,13 @@
 		"minimapSlider.activeBackground": "#8f92ab8b",
 		"editorGroupHeader.tabsBackground": "#2a2c3f",
 		"tab.inactiveBackground": "#2a2c3f",
-		"notificationCenterHeader.background": "#2a2c3f",
-		"diffEditorGutter.insertedLineBackground": "#535882",
+		"notificationCenterHeader.background": "#000000",
+		"diffEditorGutter.insertedLineBackground": "#32354e",
+		"diffEditorGutter.removedLineBackground": "#ff0000",
 		"symbolIcon.stringForeground": "#a2abff",
-		"settings.headerForeground": "#ff0000"
+		"settings.headerForeground": "#ff0000",
+		"merge.incomingHeaderBackground": "#a2abff",
+		"merge.currentHeaderBackground": "#61679a"
 	},
 	"tokenColors": [
 		{
