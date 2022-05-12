@@ -24,7 +24,9 @@
 		"editorGroupHeader.tabsBackground": "#2a2c3f",
 		"tab.inactiveBackground": "#2a2c3f",
 		"notificationCenterHeader.background": "#2a2c3f",
-		"diffEditorGutter.insertedLineBackground": "#535882"
+		"diffEditorGutter.insertedLineBackground": "#535882",
+		"symbolIcon.stringForeground": "#a2abff",
+		"settings.headerForeground": "#ff0000"
 	},
 	"tokenColors": [
 		{
@@ -95,7 +97,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ddd2d2"
+				"foreground": "#afb7ff"
 			}
 		},
 		{
@@ -516,7 +518,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#ac71f0"
+				"foreground": "#cca2fb"
 			}
 		},
 		{
@@ -568,7 +570,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#8badf6"
 			}
 		},
 		{
