@@ -1,9 +1,9 @@
 {
 	"name": "TheCoderGuru Dark",
 	"colors": {
-		"editor.background": "#202230",
+		"editor.background": "#252736",
 		"editor.foreground": "#ffffff",
-		"activityBarBadge.background": "#2d3044",
+		"activityBarBadge.background": "#252736",
 		"activityBar.inactiveForeground": "#8a8eab",
 		"sideBarTitle.foreground": "#b7b9cf",
 		"activityBar.background": "#1f202e",
