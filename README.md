@@ -5,7 +5,8 @@ hence its best to have a theme that enables productivity during the night and he
 
 I took inspiration from Dracula Theme and then tweaked the colors around to achieve this desired theme.
 
-
+![GitHub repo size](https://img.shields.io/github/repo-size/thecoderguru/logical_properties_vsc_snippets)
+![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/ShashreeSamuel.thecoderguru-dark)
 <br>
 
 **This theme will be maintained and updated as I have time.**
