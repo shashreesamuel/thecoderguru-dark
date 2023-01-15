@@ -2,9 +2,9 @@
   "name": "thecoderguru-dark",
   "displayName": "TheCoderGuru Dark",
   "description": "The theme to enable productivity in the night",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "publisher": "ShashreeSamuel",
-  "icon": "profile_picture.png",
+  "icon": "plugin_icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/TheCoderGuru/thecoderguru-dark"
